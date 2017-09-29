@@ -7,15 +7,15 @@
 @font-face {
   font-family: 'DINWeb';
   font-weight: 400;
-  src: url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINWeb.woff") format("woff"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINWeb.eot") format("embedded-opentype"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINWeb.ttf") format("truetype"); }
+  src: url("https://s3.amazonaws.com/periscope-static/fonts/DINWeb.woff") format("woff"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINWeb.eot") format("embedded-opentype"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINWeb.ttf") format("truetype"); }
 @font-face {
   font-family: 'DINLight';
   font-weight: normal;
-  src: url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINLight.woff") format("woff"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINLight.eot") format("embedded-opentype"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINLight.ttf") format("truetype"); }
+  src: url("https://s3.amazonaws.com/periscope-static/fonts/DINLight.woff") format("woff"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINLight.eot") format("embedded-opentype"), url("https://web.archive.org/web/20170427103104im_/https://s3.amazonaws.com/periscope-static/fonts/DINLight.ttf") format("truetype"); }
 @font-face {
   font-family: 'DINProRegular';
   font-weight: normal;
-  src: url("https://web.archive.org/web/20170427103104im_/https://d1kysoj00na783.cloudfront.net/fonts/DINPro-Regular.woff") format("woff"), url("https://web.archive.org/web/20170427103104im_/https://d1kysoj00na783.cloudfront.net/fonts/DINPro-Regular.eot") format("embedded-opentype"), url("https://web.archive.org/web/20170427103104im_/https://d1kysoj00na783.cloudfront.net/fonts/DINPro-Regular.ttf") format("truetype"); }
+  src: url("https://d1kysoj00na783.cloudfront.net/fonts/DINPro-Regular.woff") format("woff"), url("https://web.archive.org/web/20170427103104im_/https://d1kysoj00na783.cloudfront.net/fonts/DINPro-Regular.eot") format("embedded-opentype"), url("https://web.archive.org/web/20170427103104im_/https://d1kysoj00na783.cloudfront.net/fonts/DINPro-Regular.ttf") format("truetype"); }
 * {
   margin: 0;
   padding: 0; }
